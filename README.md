@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hii 👋 👋 I am Rakshita Pandey 
+![Age](https://img.shields.io/badge/Age-15-ff1493)
+
+- 🌱 I’m currently learning python
+- 😄 Pronouns: she/her
+- 📫 How to reach me: discord - R∆K$H!T∆#9439
+---
+
+<img align="left" alt="Sookeyy-12's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RAK5H1TA&theme=radical&show_icons=true"/>
+
+<img align="left" alt="Sookeyy-12's Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAK5H1TA&layout=compact&theme=radical"/>
 
 <!--
 **RAK5H1TA/RAK5H1TA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
