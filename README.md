@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning python
 - 😄 Pronouns: she/her
-- 📫 How to reach me: discord - R∆K$H!T∆#9439
+- 📫 How to reach me: discord - R∆K$H!T∆#3227
 ---
 
 <img align="left" alt="Sookeyy-12's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RAK5H1TA&theme=radical&show_icons=true"/>
