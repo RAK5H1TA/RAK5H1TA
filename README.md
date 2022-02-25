@@ -1,5 +1,5 @@
 ### Hii 👋 👋 I am Rakshita Pandey 
-![Age](https://img.shields.io/badge/Age-15-ff1493)
+![Age](https://img.shields.io/badge/Age-16-ff1493)
 
 - 🌱 I’m currently learning python
 - 😄 Pronouns: she/her
